@@ -1,16 +1,18 @@
 
 
-# SampleNewsApp
-An iOS app that displays news from News API https://newsapi.org. Choose language from setting.
+# NewsFeedApp
+An iOS app that displays news from News API https://newsapi.org.
 
 # Prerequisites
--Xcode -Cocoapods
+-Xcode
 
 # Installing
 1.Clone the project to your local machine
 
-git clone https://github.com/PatelAnand1991/SampleNewsApp.git
+https://github.com/ravi123saxena/NewsApp.git
 
-2.Install required dependencies
+# Features
 
-pod install
+- [x] Solid Design pattern with MVVM
+- [x] Pull to refresh
+- [x] Firebase crashlytics - In current project firabase code commented in appdelgate class. to see crash uncomment

@@ -8,7 +8,7 @@ enum DemoError: Error {
 
 //The Dependency Inversion Principle -  Since NetworkManager is high level class this should not depend on low level functionality
 
-
+// MARK: - Network Manager
 class NetworkManager {
     let aPIHandler: APIHandlerDelegate
     let responseHandler: ResponseHandlerDelegate

@@ -75,6 +75,7 @@ class NewsViewController: UIViewController, NewsViewModelProtocol {
     }
 }
 
+// MARK: - TableView Extension
 extension NewsViewController: UITableViewDelegate,UITableViewDataSource {
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         self.newsData.count
@@ -98,7 +99,7 @@ extension NewsViewController: UITableViewDelegate,UITableViewDataSource {
         }
         cell.newsTitle.text = news.author
         cell.newsSubTitle.text = news.title
-        cell.newsDatePublished.text = news.publishedAt
+        cell.newsDatePublished.text = news.publishedAt?.UTCToLongLocal()
         
         return cell
     }

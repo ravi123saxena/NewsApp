@@ -17,7 +17,7 @@ class NewsDetailViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         self.autherTitle?.text = auther
-        self.publishDate?.text = publishdate
+        self.publishDate?.text = publishdate?.UTCToLongLocal()
     }
     
 

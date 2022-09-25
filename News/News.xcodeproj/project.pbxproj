@@ -28,6 +28,8 @@
 		8647D15828E02CAB0009FCAF /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = 8647D15728E02CAB0009FCAF /* FirebaseDatabase */; };
 		8647D15A28E02CAB0009FCAF /* FirebaseDatabaseSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 8647D15928E02CAB0009FCAF /* FirebaseDatabaseSwift */; };
 		8647D15F28E030920009FCAF /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8647D15E28E030920009FCAF /* GoogleService-Info.plist */; };
+		8672974628E053AE00C093C8 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8672974528E053AE00C093C8 /* Extension.swift */; };
+		8672974928E054B100C093C8 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8672974828E054B000C093C8 /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +70,8 @@
 		8647D14828DF51B60009FCAF /* NewsViewService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewsViewService.swift; sourceTree = "<group>"; };
 		8647D14C28DFA4DF0009FCAF /* NewsDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsDetailViewController.swift; sourceTree = "<group>"; };
 		8647D15E28E030920009FCAF /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		8672974528E053AE00C093C8 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
+		8672974828E054B000C093C8 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +127,8 @@
 		8647D10B28DF28A20009FCAF /* News */ = {
 			isa = PBXGroup;
 			children = (
+				8672974728E0548A00C093C8 /* Constants */,
+				8672974428E0538400C093C8 /* Extension */,
 				8647D15E28E030920009FCAF /* GoogleService-Info.plist */,
 				8647D14F28DFC3350009FCAF /* Services */,
 				8647D14E28DFC30E0009FCAF /* ViewController */,
@@ -188,6 +194,22 @@
 				8647D14428DF4BE20009FCAF /* NetworkManager.swift */,
 			);
 			path = Services;
+			sourceTree = "<group>";
+		};
+		8672974428E0538400C093C8 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				8672974528E053AE00C093C8 /* Extension.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		8672974728E0548A00C093C8 /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				8672974828E054B000C093C8 /* Constants.swift */,
+			);
+			path = Constants;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -356,10 +378,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				8647D14928DF51B60009FCAF /* NewsViewService.swift in Sources */,
+				8672974928E054B100C093C8 /* Constants.swift in Sources */,
 				8647D14028DF42D30009FCAF /* NewsModel.swift in Sources */,
 				8647D14328DF4B980009FCAF /* NewsViewModel.swift in Sources */,
 				8647D11128DF28A30009FCAF /* NewsViewController.swift in Sources */,
 				8647D14528DF4BE20009FCAF /* NetworkManager.swift in Sources */,
+				8672974628E053AE00C093C8 /* Extension.swift in Sources */,
 				8647D10D28DF28A30009FCAF /* AppDelegate.swift in Sources */,
 				8647D14D28DFA4DF0009FCAF /* NewsDetailViewController.swift in Sources */,
 				8647D13D28DF3BC90009FCAF /* NewsTableViewCell.swift in Sources */,

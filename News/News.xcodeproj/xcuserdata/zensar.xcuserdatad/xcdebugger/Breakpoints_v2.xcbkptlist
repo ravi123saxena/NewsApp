@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DF3683CA-6581-479C-A77B-A669B9DB3095"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAD38240-D9D2-45F3-9F87-74C0562B4500"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "News/NewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "NewsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "BAD38240-D9D2-45F3-9F87-74C0562B4500 - 8ac1fe31d7c1c99d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "News.NewsViewController.newsData.getter : Swift.Optional&lt;Swift.Array&lt;News.NewsModel&gt;&gt;"
+                  moduleName = "News"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zensar/Desktop/News/News/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "BAD38240-D9D2-45F3-9F87-74C0562B4500 - 336e7812fc8bada9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "News.NewsViewController.newsData.setter : Swift.Optional&lt;Swift.Array&lt;News.NewsModel&gt;&gt;"
+                  moduleName = "News"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zensar/Desktop/News/News/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "BAD38240-D9D2-45F3-9F87-74C0562B4500 - 655d62ba9b374298"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "News.NewsViewController.newsData.modify : Swift.Optional&lt;Swift.Array&lt;News.NewsModel&gt;&gt;"
+                  moduleName = "News"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zensar/Desktop/News/News/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "BAD38240-D9D2-45F3-9F87-74C0562B4500 - 42083356ea46c0d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "News.NewsViewController.newsData.modify : Swift.Optional&lt;Swift.Array&lt;News.NewsModel&gt;&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "News"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zensar/Desktop/News/News/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "BAD38240-D9D2-45F3-9F87-74C0562B4500 - 7d3286869e35e231"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "News.NewsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; News.NewsViewController"
+                  moduleName = "News"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zensar/Desktop/News/News/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "362">
+               </Location>
+               <Location
+                  uuid = "BAD38240-D9D2-45F3-9F87-74C0562B4500 - 72a02f19e4056b27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "News.NewsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;News.NewsViewController&gt;"
+                  moduleName = "News"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zensar/Desktop/News/News/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "310">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "154D626E-7D05-4689-B084-1DC6775282C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "News/ViewModel/NewsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "fetchNews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "154D626E-7D05-4689-B084-1DC6775282C7 - 1879cf575d652d2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "News.NewsViewModel.fetchNews() -&gt; ()"
+                  moduleName = "News"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zensar/Desktop/News/News/ViewModel/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  uuid = "154D626E-7D05-4689-B084-1DC6775282C7 - 1a1638dee674f4cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;News.ResultNewsModel, News.DemoError&gt;) -&gt; () in News.NewsViewModel.fetchNews() -&gt; ()"
+                  moduleName = "News"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zensar/Desktop/News/News/ViewModel/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "151">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BCEBF96-4845-417C-8621-E72FF51890C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Downloads/YoutubeVideos-main/SolidPrinicpleiOS/ApiCallSwiftUI/ApiCallSwiftUI/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetchRequest(type:url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4F160FF-4C33-4BAA-9CF7-6765F415BE69"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Downloads/YoutubeVideos-main/SolidPrinicpleiOS/ApiCallSwiftUI/ApiCallSwiftUI/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "fetchData(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65053D03-A32C-45D1-8C51-D1D5722902C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Downloads/YoutubeVideos-main/SolidPrinicpleiOS/ApiCallSwiftUI/ApiCallSwiftUI/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "fetchModel(type:data:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5581584-5697-4AB8-81E3-C27DF5702230"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "News/ViewModel/NewsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetchNews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D5581584-5697-4AB8-81E3-C27DF5702230 - bad29e560378854d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;News.ResultNewsModel, News.DemoError&gt;) -&gt; () in News.NewsViewModel.fetchNews() -&gt; ()"
+                  moduleName = "News"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zensar/Desktop/News/News/ViewModel/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  uuid = "D5581584-5697-4AB8-81E3-C27DF5702230 - bad29e560378854d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;News.ResultNewsModel, News.DemoError&gt;) -&gt; () in News.NewsViewModel.fetchNews() -&gt; ()"
+                  moduleName = "News"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zensar/Desktop/News/News/ViewModel/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "559">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10F7CB13-700A-4974-82A5-5455E1946FF8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "News/ViewModel/NewsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchNews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2513B3C-A5FA-4301-8DDC-6D4AC6DDF9A9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Downloads/YoutubeVideos-main/SolidPrinicpleiOS/ApiCallSwiftUI/ApiCallSwiftUI/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "fetchData(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D2513B3C-A5FA-4301-8DDC-6D4AC6DDF9A9 - 9479cc4daef1dcb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in News.APIHandler.fetchData(url: Foundation.URL, completion: (Swift.Result&lt;Foundation.Data, News.DemoError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "News"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zensar/Downloads/YoutubeVideos-main/SolidPrinicpleiOS/ApiCallSwiftUI/ApiCallSwiftUI/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "171">
+               </Location>
+               <Location
+                  uuid = "D2513B3C-A5FA-4301-8DDC-6D4AC6DDF9A9 - 9479cc4daef1dcb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in News.APIHandler.fetchData(url: Foundation.URL, completion: (Swift.Result&lt;Foundation.Data, News.DemoError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "News"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zensar/Downloads/YoutubeVideos-main/SolidPrinicpleiOS/ApiCallSwiftUI/ApiCallSwiftUI/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CAF2ADE-416E-44AF-9BD3-E372932AF546"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Downloads/YoutubeVideos-main/SolidPrinicpleiOS/ApiCallSwiftUI/ApiCallSwiftUI/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "fetchData(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D3F9B49-60A4-41F9-8A02-78D1F1D714F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Downloads/YoutubeVideos-main/SolidPrinicpleiOS/ApiCallSwiftUI/ApiCallSwiftUI/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "fetchData(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DEDAF4D-2F2D-444F-9FF5-FB47B57D4E32"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Downloads/YoutubeVideos-main/SolidPrinicpleiOS/ApiCallSwiftUI/ApiCallSwiftUI/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchRequest(type:url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC4DB3B5-B675-4245-A8E7-01CDE50D5704"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Downloads/YoutubeVideos-main/SolidPrinicpleiOS/ApiCallSwiftUI/ApiCallSwiftUI/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fetchRequest(type:url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E24A5285-ED5B-4A3A-BE92-4E72ED75883E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Downloads/YoutubeVideos-main/SolidPrinicpleiOS/ApiCallSwiftUI/ApiCallSwiftUI/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "fetchModel(type:data:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45DCBE82-75EB-4232-A119-231F53ABE4E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Downloads/YoutubeVideos-main/SolidPrinicpleiOS/ApiCallSwiftUI/ApiCallSwiftUI/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "fetchModel(type:data:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C7BE45A-92EF-446F-A0F9-181A37EBDC43"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "News/ViewModel/NewsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "fetchNews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCC06F73-D5CD-4D2B-B621-1A8A5CCC4BD9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "News/NewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "getResult(result:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC8586BF-7F3A-4CA6-B864-8461CDE93B9B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "News/NewsViewService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getNews(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F809374-E9B0-4338-83C7-49A7C8443314"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "News/NewsViewService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "getNews(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E59A4765-9EF8-4B3B-81E2-9BA2C6C2AAE1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsTests/NewsTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "test_newsViewModal_should_show_valid_response()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DCC393A-49DC-4D4F-B800-5B5AD9B95B48"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsTests/NewsTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "test_newsViewModal_should_show_valid_response()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5DCC393A-49DC-4D4F-B800-5B5AD9B95B48 - 4afa007d31d66ceb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsTests.NewsTests.test_newsViewModal_should_show_valid_response() -&gt; ()"
+                  moduleName = "NewsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zensar/Desktop/News/NewsTests/NewsTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "5DCC393A-49DC-4D4F-B800-5B5AD9B95B48 - efa75b7fd4e2827e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;News.ResultNewsModel, News.DemoError&gt;) -&gt; () in NewsTests.NewsTests.test_newsViewModal_should_show_valid_response() -&gt; ()"
+                  moduleName = "NewsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zensar/Desktop/News/NewsTests/NewsTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "169">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
